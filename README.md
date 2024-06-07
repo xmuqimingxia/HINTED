@@ -41,7 +41,7 @@ train_info:
 [Sparsely-supervised train info](https://drive.google.com/file/d/1-5dWDii-I3MZNFAMYnQ_pHNZgAB6mNsL/view?usp=sharing)
 
 label_idx:
-[label_idx.txt]()
+[label_idx.txt](https://drive.google.com/file/d/16VXLD0pLO-9NGEd273woXN1_udUwUOyX/view?usp=sharing)
 
 * Please download the official [KITTI 3D object detection](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) dataset and organize the downloaded files as follows (the road planes could be downloaded from [[road plane]](https://drive.google.com/file/d/1d5mq0RXRnvHPVeKx6Q612z0YRO1t2wAp/view?usp=sharing), which are optional for data augmentation in the training):
 ```
