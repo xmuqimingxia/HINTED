@@ -65,7 +65,7 @@ bash remove.sh
 ```
 cd ../../tools
 ```
-*if you use singe gpu run
+*if you use singe gpu run （--labeled_frame_idx is provideed label_idx above:[label_idx.txt](https://drive.google.com/file/d/16VXLD0pLO-9NGEd273woXN1_udUwUOyX/view?usp=sharing)）
 ```
 python train.py --cfg_file cfgs/kitti_models/voxel_rcnn_3classes_ssl_centerHead.yaml --pretrained_model <path_to_pretrained_model_CoIn(VoxelRCNN-based)> --labeled_frame_idx <path_to_label_idx.txt>
 ```
