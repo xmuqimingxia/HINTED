@@ -79,11 +79,11 @@ If you find this project useful in your research, please consider cite:
 
 
 ```
-@inproceedings{CoIn2023,
-    title={CoIn: Contrastive Instance Feature Mining for Outdoor 3D Object Detection with Very Limited Annotations},
-    author={Xia, Qiming and Deng, Jinhao and Wen, Chenglu and Wu, Hai and Shi, Shaoshuai and Li, Xin and Wang, Cheng},
-    booktitle = {ICCV},
-    year={2023}
+@inproceedings{HINTED2024,
+    title={HINTED: Hard Instance Enhanced Detector with Mixed-Density Feature Fusion for Sparsely-Supervised 3D Object Detection},
+    author={Xia, Qiming and Ye, Wei and Wu, Hai and Zhao, Shijia and Xing, Leyuan and Huang, Xun and Deng, Jinhao and Li, Xin and Wen, Chenglu and Wang, Cheng},
+    booktitle = {CVPR},
+    year={2024}
 }
 ```
 
