@@ -74,6 +74,19 @@ python train.py --cfg_file cfgs/kitti_models/voxel_rcnn_3classes_ssl_centerHead.
 bash scripts/dist_train.sh 8 --cfg_file cfgs/kitti_models/voxel_rcnn_3classes_ssl_centerHead.yaml --pretrained_model <path_to_pretrained_model_CoIn(VoxelRCNN-based)> --labeled_frame_idx <path_to_label_idx.txt>
 ```
 
+## Citation 
+If you find this project useful in your research, please consider cite:
+
+
+```
+@inproceedings{CoIn2023,
+    title={CoIn: Contrastive Instance Feature Mining for Outdoor 3D Object Detection with Very Limited Annotations},
+    author={Xia, Qiming and Deng, Jinhao and Wen, Chenglu and Wu, Hai and Shi, Shaoshuai and Li, Xin and Wang, Cheng},
+    booktitle = {ICCV},
+    year={2023}
+}
+```
+
 ### Acknowledgement
 This code is based on [OpenPCDet](https://github.com/open-mmlab/OpenPCDet),[3DIoUMatch](https://github.com/THU17cyz/3DIoUMatch-PVRCNN),[HSSDA](https://github.com/azhuantou/HSSDA) and [COIN](https://github.com/xmuqimingxia/CoIn) .
 
