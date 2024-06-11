@@ -1,4 +1,4 @@
-# HINTED: Hard Instance Enhanced Detector with Mixed-Density Feature Fusion for Sparsely-Supervised 3D Object Detection (Coming soon......)
+# HINTED: Hard Instance Enhanced Detector with Mixed-Density Feature Fusion for Sparsely-Supervised 3D Object Detection 
 
 This is a official code release of HINTED (Hard Instance Enhanced Detector with Mixed-Density Feature Fusion for Sparsely-Supervised 3D Object Detection). This code is mainly based on OpenPCDet.
 
