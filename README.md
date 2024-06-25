@@ -79,11 +79,12 @@ If you find this project useful in your research, please consider cite:
 
 
 ```
-@inproceedings{HINTED2024,
-    title={HINTED: Hard Instance Enhanced Detector with Mixed-Density Feature Fusion for Sparsely-Supervised 3D Object Detection},
-    author={Xia, Qiming and Ye, Wei and Wu, Hai and Zhao, Shijia and Xing, Leyuan and Huang, Xun and Deng, Jinhao and Li, Xin and Wen, Chenglu and Wang, Cheng},
-    booktitle = {CVPR},
-    year={2024}
+@inproceedings{hinted,
+  title={HINTED: Hard Instance Enhanced Detector with Mixed-Density Feature Fusion for Sparsely-Supervised 3D Object Detection},
+  author={Xia, Qiming and Ye, Wei and Wu, Hai and Zhao, Shijia and Xing, Leyuan and Huang, Xun and Deng, Jinhao and Li, Xin and Wen, Chenglu and Wang, Cheng},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={15321--15330},
+  year={2024}
 }
 ```
 
