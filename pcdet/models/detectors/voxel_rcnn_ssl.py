@@ -171,7 +171,7 @@ class VoxelRCNNSSL(Detector3DTemplate):
 
             loss_3, tb_dict_3, disp_dict_3 = self.get_training_loss()
             
-            loss = loss_1+loss_2+loss_3
+            loss = loss_1+0.1 * loss_2+loss_3
            
 
             ret_dict = {
